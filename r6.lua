@@ -1,4 +1,4 @@
-local Y = -50 --/* Places your head 50 studs below you [Feel free to change to wherever.]
+local Y = -50 --/* Places your head 50 studs below you [feel free to change to wherever.]
 
 local LP = game:GetService('Players').LocalPlayer
 if not workspace:FindFirstChild(LP.Name) then LP.CharacterAdded:Wait() end
