@@ -24,3 +24,4 @@ RGrip.Parent = BPart
 Attachment.CFrame = CFrame.new(0,0,0);
 RGrip.C1 = Handle.CFrame:ToObjectSpace(Char['HumanoidRootPart'].CFrame) RGrip.C0 = CFrame.new(0, Var, 0)
 RGrip:Remove(); RGrip.Parent = BPart
+
